@@ -145,4 +145,5 @@ From January 2001 to June 2003
 
 Responsibilities:
 
+
 - Application support and running SQL data fixes into the Oracle database
