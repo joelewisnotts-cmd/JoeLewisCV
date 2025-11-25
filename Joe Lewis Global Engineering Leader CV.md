@@ -37,8 +37,8 @@ I have earned numerous cloud computing certifications across both Azure and AWS,
 ### Director of Engineering at Equiniti
 From Nov 2023 to Present
 Based in London (hybrid)
-Equiniti supports leading global companies with share registry, employee plans, and investor relations, while modernising its technology through public cloud and DevSecOps adoption.
-Responsibilities:
+Equiniti supports the global capital markets by helping global companies with share registry, employee share plans, and investor relations.  Recently, it has been modernising its technology through public cloud, Agile/ SAFe adoption and moving to an Engineering excellence culture of DevSecOps.
+Responsibilities
 - Directed a globally distributed organisation of over 700 engineers and architects, fostering a high-performance culture, aligning release trains with strategic business objectives
 - Held end-to-end ownership of mission-critical trading platforms, global shareholder portals and back-office workflow, ensuring operational and regulatory excellence
 - Defined and executed technology vision and strategy in partnership with Product, translating business goals into actionable roadmaps and measurable outcomes
@@ -59,7 +59,7 @@ Based in Nottingham (hybrid)
 Calyx is a MedTech/ eClinical company helping large pharmaceutical companies with drug regulation and clinical trials offering clients a managed service, or SaaS based single tenanted platforms.  
 My role was both delivery and operational focused (build it own it). We built and ran .Net, Java & Oracle apps, as well as COTS software on IaaS. We more recently build and run Cloud Native PaaS (App Service & Logic App, PaaS SQL/ NOSQL & DataFactory) & SaaS (Power Automate/ Apps & Power BI).  
 My function is globally distributed, split between 57 perm and vendor resources, across 5 teams
-Responsibilities:
+Responsibilities
 - Provided strategic leadership and full accountability for platform architecture, technology roadmaps, and continuous improvement initiatives
 - Directed engineering groups in the design, deployment, and management of cloud and application resources, leveraging Infrastructure as Code (IaC) and DevOps best practices
 - Oversaw operational excellence for internal platforms and client-facing SaaS solutions
@@ -77,8 +77,8 @@ From November 2011 to February 2021
 Based in Nottingham (on-site)
 Capital One is a global financial services provider, regulated in both the UK and US, serving over three million UK customers and more than one thousand internal users.
 For my last 4 years, I was Head of Application Operations, running four application support teams in an SRE and automation based model.
-Before this role, I was a Technical Programme Manager (TPM), and Service Transition Manager before that.
-Responsibilities as Head of Application Operations:
+Before this role, I was a Technical Programme Manager (TPM), and Service Transition Manager before that
+Responsibilities as Head of Application Operations
 - Ensured high availability and reliability for customer-facing portals, mobile applications, and internal systems, consistently meeting uptime targets
 - Oversaw complex data transfers, vendor integrations, and the management of cloud data lakes and business intelligence platforms, driving seamless operations
 - Developed and implemented a standardised transition framework, successfully coordinating over 50 Agile squads to optimise delivery processes
@@ -94,7 +94,7 @@ Responsibilities as Head of Application Operations:
 ### Release, Config. And Environments Manager at Capita
 From November 2009 to October 2011
 Based in Birmingham (hybrid)
-Responsibilities:
+Responsibilities
 - Scheduling of development, deployment and testing resources
 - Code merge and software development lifecycle management (SVN/ Tortoise)
 - Managing the configuration of all physical and logical infrastructure and software
@@ -107,7 +107,7 @@ Responsibilities:
 ### Application and Service Manager at Equifax
 From May 2007 to November 2009
 Based in Nottingham (on-site)
-Responsibilities:
+Responsibilities
 - Development and management of all IIS C# applications and SQL Server data warehousing
 - Managing all ITSM processes as the IT Service Manager
 
@@ -115,12 +115,72 @@ Responsibilities:
 ### Support Manager and Developer
 From September 2003 to May 2007
 Based in Nottingham (on-site)
-Responsibilities:
+Responsibilities
 - Line managing a support and implementation team
 - Developing in C#, VBA and VB6 using TFS server
 
 
 ### Application Support Analyst at Welcome Finance
 From January 2001 to June 2003
-Responsibilities:
+Responsibilities
 - Application support and running SQL data fixes into the Oracle database
+
+
+## Core principles and skills
+
+
+### Strategic
+-	Gather organisational context
+-	Create Technology vision and strategy
+-	Prioritise/ sequence on value
+-	Share clarity on direction
+-	Track progress through leading indicators, not trailing
+-	Communicate progress
+-	Celebrate success
+-	Plan technical roadmaps
+-	Critical knowledge in house
+-	Outsource for resource augmentation or contained outcomes, not problems
+
+
+### Technical
+-	AI writes half of your code
+-	Automate all manual work (SRE)
+-	Security, Testing and Infrastructure as code
+-	Build cloud native first
+-	Build and deploy through CI/CD
+-	Utilise open source, avoid vendor lock in
+-	Break monolithic systems down through decoupling APIs
+-	Centralise identity to simplify control
+-	Micro front ends and single page apps
+-	Shift operations work left to reduce costs
+-	Build security testing into the SDLC
+-	Fail-over regularly to validate resiliency
+
+
+### Regulation/ Security
+-	Securing customer data = job #0
+-	Service stability = job #1
+-	Build security testing into the SDLC and test regularly
+-	Standardise processes increases consistency and adherence
+-	Run detective controls to test adherence to policies
+-	Anticipate audit interests, and implement preventative measures
+-	Understand regulatory commitments
+-	Achieving budget is everyone’s objective, push ownership down
+-	Costs should be owned by those with the most influence on the roadmap
+-	Understand product profitability of Technology costs
+
+
+### Leadership
+-	Promote Growth mindset
+-	Treat everyone with respect
+-	Increase empathy in leaders
+-	Coach & develop collaborative behaviours
+-	Raise expectations and push improvement
+-	Assign single-threaded owners
+-	Develop intrinsic motivation
+-	Build autonomy and empowerment
+-	Push decisions to those with information
+-	Promote ‘now that’ rewards
+-	Hold tough conversations early
+-	Talk in facts, not emotions
+-	Mentor emerging leaders
