@@ -3,9 +3,11 @@
 ### Global Technology Executive  
 **Building a High-Performance Engineering Culture | Scaling Cloud and AI for Enterprise Growth | Financial Services**
 
-**CTO | Chief Technology Officer | VP of Engineering | Vice President of Engineering**
+### CTO | Chief Technology Officer | VP of Engineering | Vice President of Engineering
 
-**London or Midlands | Remote or Hybrid**
+#### London or Midlands | Remote or Hybrid
+
+#### joelewisnotts@hotmail.co.uk | Live near Grantham | www.linkedin.com/in/joe-lewis-notts | 07843 081 640 | https://github.com/joelewisnotts-cmd
 
 ---
 
@@ -88,10 +90,12 @@ Capital One is a global financial services provider, regulated in both the UK an
 - Oversaw complex data transfers, vendor integrations, and BI platforms  
 - Coordinated 50+ Agile squads with a standardised transition framework  
 - Managed vendor budgets exceeding £1M  
-- Led four SRE squads, delivering measurable operational efficiency gains  
+- Led four application support and platform squads operating in SRE principles, delivering measurable operational efficiency gains  
 - Implemented advanced automation with Jenkins pipelines  
 - Maintained compliance with US and UK regulatory standards  
 - Delivered resiliency across data centre and public cloud infrastructures  
+
+I started at CapitalOne as Service Transition Manager, then became a Technical Programme Manager, finishing for the last 4 years as Head of Application Operations
 
 ---
 
@@ -126,7 +130,7 @@ Capital One is a global financial services provider, regulated in both the UK an
 ---
 
 ### Application Support Analyst — Welcome Finance  
-**Jan 2001 – Jun 2003**  
+**Jan 2001 – Jun 2003 | Nottingham (on-site)**  
 
 #### Responsibilities
 - Application support and SQL data fixes in Oracle databases  
@@ -175,4 +179,5 @@ Capital One is a global financial services provider, regulated in both the UK an
 - Hire top engineering leaders and talent, provide mentoring, coaching and guidance to your staff
 
 ---
+
 
