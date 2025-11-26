@@ -3,12 +3,16 @@
 ### Global Technology Executive  
 **Building a High-Performance Engineering Culture | Scaling Cloud and AI for Enterprise Growth | Financial Services**
 
+**CTO | Chief Technology Officer | VP of Engineering | Vice President of Engineering**
+
+**London or Midlands | Remote or Hybrid**
+
 ---
 
 ## Professional Summary
 
 ### Headline
-Growth mindset technology executive with 25 years of leadership experience, mainly in financial services. Renowned for driving transformation across the entire technology lifecycle. Expert in building and modernising large-scale, cloud-native platforms and optimising legacy estates for public cloud migration.
+Growth mindset technology executive with over 20 years of experience, mainly in financial services. Renowned for driving transformation across the entire technology lifecycle. Expert in building and modernising large-scale, cloud-native platforms and optimising legacy estates for public cloud migration.
 
 Influential with C-level stakeholders, I lead global engineering organisations of over 700 professionals, instilling a high-performance culture of Engineering. Distinguished for strategic vision, operational excellence, and managing substantial budgets in highly regulated environments.
 
@@ -16,16 +20,21 @@ Influential with C-level stakeholders, I lead global engineering organisations o
 - Deep technical proficiency in modern cloud-native architectures and programming languages  
 - Champion of engineering excellence, embedding automation and Site Reliability Engineering (SRE) principles  
 - Driving adoption of software, testing, security, and infrastructure as code  
+- Experience in design, architecture, and engineering of highly available, secure, resilient, and scalable systems  
 - Targeting over 50% of code delivered through advanced AI prompt engineering  
-- Standardising technical practices, tooling, and leveraging automation and AI to maximise productivity  
+- Excellent knowledge of core engineering best practices  
+- Standardising technical practices, tooling, and leveraging automation and AI to maximise productivity
 
 ### Career Experience
-Led global engineering organisations through transformational change, overseeing cloud migrations, technology consolidations, and modernisation of legacy estates. Direct involvement in private equity transactions, mergers, and divestitures, ensuring alignment with organisational objectives.
-
-Recognised for mentoring technology leaders, driving operational excellence, and fostering high-performance cultures. Leadership consistently delivers efficiency gains, cost savings, and compliance in highly regulated environments.
+- Led global engineering organisations through transformational culture change  
+- Managed large scale cloud migrations into Azure and AWS pubic cloud  
+- Completed technology consolidations from acquisitions, and modernisation of legacy technology estates  
+- Direct involvement in private equity transactions, mergers, and divestitures (through TSA)  
+- Recognised for mentoring technology leaders, driving operational excellence, and fostering high-performance cultures  
+- My leadership consistently delivers efficiency gains, FinOps cost savings, and compliance in highly regulated environments.
 
 ### Education & Certifications
-- Master’s degree with distinction, University of Leicester (Science & Technology discipline)  
+- Advanced Master degree with distinction, University of Leicester (Science & Technology discipline)  
 - Executive Leadership Programme, Oxford University – Saïd Business School  
 - Certifications: Azure, AWS, GitHub Copilot, historic Microsoft technical certifications  
 - Qualified in SAFe, FinOps, Product Management, DevOps, Kepner-Tregoe, ITIL  
@@ -127,11 +136,13 @@ Capital One is a global financial services provider, regulated in both the UK an
 ## Core Principles & Skills
 
 ### Strategic
-- Create technology vision and strategy  
+- Create and define technology vision and strategy  
 - Prioritise on value, track progress via leading indicators  
 - Communicate progress and celebrate success  
-- Plan technical roadmaps  
-- Outsource for augmentation, not core problems  
+- Outsource for resource augmentation, not your problems  
+- Partner with business counterparts to develop multi-year strategic outlook  
+- Provide leadership and oversight to a large team of technology leaders and developers  
+- Own the planning, design, and delivery of all product development and technical roadmap items
 
 ### Technical
 - AI writes half of your code  
@@ -140,7 +151,7 @@ Capital One is a global financial services provider, regulated in both the UK an
 - Utilise open source, avoid vendor lock-in  
 - Break monoliths via decoupled APIs  
 - Centralise identity, build micro front ends  
-- Embed security testing into SDLC  
+- Embed security testing into SDLC
 
 ### Regulation & Security
 - Securing customer data = job #0  
@@ -149,6 +160,8 @@ Capital One is a global financial services provider, regulated in both the UK an
 - Run detective controls and preventative measures  
 - Understand regulatory commitments  
 - Push budget ownership down to product teams  
+- Represent technology in relevant board and regulatory engagements  
+- Ensure security and operational posture of the platform meets the highest standards
 
 ### Leadership
 - Promote growth mindset and respect  
@@ -158,5 +171,8 @@ Capital One is a global financial services provider, regulated in both the UK an
 - Build autonomy and empowerment  
 - Hold tough conversations early  
 - Mentor emerging leaders  
+- Establish a culture of engineering excellence with focus on delivering high quality products to production  
+- Hire top engineering leaders and talent, provide mentoring, coaching and guidance to your staff
 
 ---
+
