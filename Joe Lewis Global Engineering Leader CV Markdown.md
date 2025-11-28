@@ -155,6 +155,7 @@ I started at CapitalOne as Service Transition Manager, then became a Technical P
 - Build cloud-native first, deploy via CI/CD  
 - Utilise open source, avoid vendor lock-in  
 - Break monoliths via decoupled APIs  
+- Building scalable real-time Data systems  
 - Centralise identity, build micro front ends  
 - Embed security testing into SDLC.
 
@@ -180,6 +181,7 @@ I started at CapitalOne as Service Transition Manager, then became a Technical P
 - Hire top engineering leaders and talent, provide mentoring, coaching and guidance to your staff.
 
 ---
+
 
 
 
