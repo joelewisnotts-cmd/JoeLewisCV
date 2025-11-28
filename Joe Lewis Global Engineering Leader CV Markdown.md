@@ -10,7 +10,7 @@
 - Financial services and regulated industries experience  
 - Strategic impact (efficiency gains, cost savings, compliance).
 
-joelewisnotts@hotmail.co.uk | 07843 081 640 | www.linkedin.com/in/joe-lewis-notts
+07843 081 640 | www.linkedin.com/in/joe-lewis-notts | joelewisnotts@hotmail.co.uk  
 
 ---
 
@@ -92,7 +92,7 @@ Capital One is a global financial services provider, regulated in both the UK an
 - Oversaw complex data transfers, vendor integrations, and BI platforms  
 - Coordinated 50+ Agile squads with a standardised transition framework  
 - Managed vendor budgets exceeding £1M  
-- Led four application support and platform squads operating in SRE principles, delivering measurable operational efficiency gains  
+- Led four application support/ platform squads (SRE principles) delivering measurable efficiency gains  
 - Implemented advanced automation with Jenkins pipelines  
 - Maintained compliance with US and UK regulatory standards  
 - Delivered resiliency across data centre and public cloud infrastructures.
@@ -183,6 +183,7 @@ I started at CapitalOne as Service Transition Manager, then became a Technical P
 - Hire top engineering leaders and talent, provide mentoring, coaching and guidance to your staff.
 
 ---
+
 
 
 
