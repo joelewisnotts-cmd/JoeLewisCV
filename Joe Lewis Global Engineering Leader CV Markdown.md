@@ -1,13 +1,13 @@
 # Joe Lewis
 
 ### Global Technology Executive  
-**Building a High-Performance Engineering Culture | Scaling Cloud and AI for Enterprise Growth | Financial Services**
+#### Building a High-Performance Engineering Culture | Scaling Cloud and AI for Enterprise Growth | Financial Services
 
-### CTO | Chief Technology Officer | VP of Engineering | Vice President of Engineering
+#### CTO | Chief Technology Officer | VP of Engineering | Vice President of Engineering
 
-#### London or Midlands | Remote or Hybrid
-
-#### joelewisnotts@hotmail.co.uk | Live near Grantham | www.linkedin.com/in/joe-lewis-notts | 07843 081 640 | https://github.com/joelewisnotts-cmd
+#### London or Midlands | Remote or Hybrid | Live near Grantham
+#### joelewisnotts@hotmail.co.uk | 07843 081 640
+#### www.linkedin.com/in/joe-lewis-notts | https://github.com/joelewisnotts-cmd
 
 ---
 
@@ -21,11 +21,11 @@ Influential with C-level stakeholders, I lead global engineering organisations o
 ### Technical Excellence
 - Deep technical proficiency in modern cloud-native architectures and programming languages  
 - Champion of engineering excellence, embedding automation and Site Reliability Engineering (SRE) principles  
-- Driving adoption of software, testing, security, and infrastructure as code  
+- Driving adoption of software, testing, security, and infrastructure, all as code  
 - Experience in design, architecture, and engineering of highly available, secure, resilient, and scalable systems  
 - Targeting over 50% of code delivered through advanced AI prompt engineering  
 - Excellent knowledge of core engineering best practices  
-- Standardising technical practices, tooling, and leveraging automation and AI to maximise productivity
+- Standardising technical practices, tooling, and leveraging automation and AI to maximise productivity.
 
 ### Career Experience
 - Led global engineering organisations through transformational culture change  
@@ -36,10 +36,10 @@ Influential with C-level stakeholders, I lead global engineering organisations o
 - My leadership consistently delivers efficiency gains, FinOps cost savings, and compliance in highly regulated environments.
 
 ### Education & Certifications
-- Advanced Masters degree in GIS Systems with distinction, University of Leicester (Computer Science & Technology discipline)  
+- Advanced Masters degree in GIS Systems with a distinction, University of Leicester (Computer Science & Technology discipline)  
 - Executive Leadership Programme, Oxford University – Saïd Business School  
-- Certifications: Azure, AWS, GitHub Copilot, historic Microsoft technical certifications  
-- Qualified in SAFe, FinOps, Product Management, DevOps, Kepner-Tregoe, ITIL  
+- Certifications: 2 x Azure, 2 x AWS, GitHub Copilot, historic Microsoft technical certifications like MCTS, MCP and MCDBA  
+- Qualified in SAFe (x2), FinOps, Product Management, DevOps (x2), Kepner-Tregoe, ITIL (x5).
 
 ---
 
@@ -60,7 +60,7 @@ Equiniti supports the global capital markets by helping companies with share reg
 - Led £50M+ legacy system consolidation and cloud migration programs  
 - Closed critical gaps in Enterprise InfoSec policies  
 - Established automation-first (SDET) culture for testing  
-- Unified fragmented organisations post-acquisition into cohesive engineering groups  
+- Unified fragmented organisations post-acquisition into cohesive engineering groups.
 
 ---
 
@@ -76,7 +76,7 @@ Calyx is a MedTech/eClinical company supporting pharmaceutical firms with drug r
 - Delivered $10M+ operational savings through FinOps initiatives  
 - Ensured platform security and compliance with GxP audit standards  
 - Authored and negotiated TSA contracts for divestitures  
-- Key contributor in private equity due diligence and data room management  
+- Key contributor in private equity due diligence and data room management.
 
 ---
 
@@ -93,7 +93,7 @@ Capital One is a global financial services provider, regulated in both the UK an
 - Led four application support and platform squads operating in SRE principles, delivering measurable operational efficiency gains  
 - Implemented advanced automation with Jenkins pipelines  
 - Maintained compliance with US and UK regulatory standards  
-- Delivered resiliency across data centre and public cloud infrastructures  
+- Delivered resiliency across data centre and public cloud infrastructures.
 
 I started at CapitalOne as Service Transition Manager, then became a Technical Programme Manager, finishing for the last 4 years as Head of Application Operations
 
@@ -107,7 +107,7 @@ I started at CapitalOne as Service Transition Manager, then became a Technical P
 - Managed configuration of infrastructure and software  
 - Coordinated programme releases through testing phases  
 - Transitioned releases into production with senior stakeholders  
-- Tracked environment usage and licensing compliance  
+- Tracked environment usage and licensing compliance.
 
 ---
 
@@ -116,7 +116,7 @@ I started at CapitalOne as Service Transition Manager, then became a Technical P
 
 #### Responsibilities
 - Developed and managed IIS C# applications and SQL Server data warehousing  
-- Managed ITSM processes as IT Service Manager  
+- Managed ITSM processes as IT Service Manager.
 
 ---
 
@@ -125,7 +125,7 @@ I started at CapitalOne as Service Transition Manager, then became a Technical P
 
 #### Responsibilities
 - Line managed support and implementation team  
-- Developed in C#, VBA, and VB6 using TFS server  
+- Developed in C#, VBA, and VB6 using TFS server.
 
 ---
 
@@ -133,7 +133,7 @@ I started at CapitalOne as Service Transition Manager, then became a Technical P
 **Jan 2001 – Jun 2003 | Nottingham (on-site)**  
 
 #### Responsibilities
-- Application support and SQL data fixes in Oracle databases  
+- Application support and SQL data fixes in Oracle databases.
 
 ---
 
@@ -147,7 +147,7 @@ I started at CapitalOne as Service Transition Manager, then became a Technical P
 - Partner with business counterparts to develop multi-year strategic outlook  
 - Provide leadership and oversight to a large team of technology leaders and developers
 - A consultative mindset with the ability to challenge, inspire, and drive innovation  
-- Own the planning, design, and delivery of all product development and technical roadmap items
+- Own the planning, design, and delivery of all product development and technical roadmap items.
 
 ### Technical
 - AI writes half of your code  
@@ -156,7 +156,7 @@ I started at CapitalOne as Service Transition Manager, then became a Technical P
 - Utilise open source, avoid vendor lock-in  
 - Break monoliths via decoupled APIs  
 - Centralise identity, build micro front ends  
-- Embed security testing into SDLC
+- Embed security testing into SDLC.
 
 ### Regulation & Security
 - Securing customer data = job #0  
@@ -166,7 +166,7 @@ I started at CapitalOne as Service Transition Manager, then became a Technical P
 - Understand regulatory commitments  
 - Push budget ownership down to product teams  
 - Represent technology in relevant board and regulatory engagements  
-- Ensure security and operational posture of the platform meets the highest standards
+- Ensure security and operational posture of the platform meets the highest standards.
 
 ### Leadership
 - Promote growth mindset and respect  
@@ -177,9 +177,10 @@ I started at CapitalOne as Service Transition Manager, then became a Technical P
 - Hold tough conversations early  
 - Mentor emerging leaders  
 - Establish a culture of engineering excellence with focus on delivering high quality products to production  
-- Hire top engineering leaders and talent, provide mentoring, coaching and guidance to your staff
+- Hire top engineering leaders and talent, provide mentoring, coaching and guidance to your staff.
 
 ---
+
 
 
 
