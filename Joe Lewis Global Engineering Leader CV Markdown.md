@@ -1,30 +1,29 @@
 # Joe Lewis
-
-### Global Technology Executive  
-#### Building a High-Performance Engineering Culture | Scaling Cloud and AI for Enterprise Growth | Financial Services
-
-#### CTO | Chief Technology Officer | VP of Engineering | Vice President of Engineering
-
-#### London or Midlands | Remote or Hybrid | Live near Grantham
-#### joelewisnotts@hotmail.co.uk | 07843 081 640
-#### www.linkedin.com/in/joe-lewis-notts | https://github.com/joelewisnotts-cmd
+#### Global Technology Executive | CTO | VP of Engineering | Grantham
 
 ---
 
-## Professional Summary
+### Executive summary
+- Scale of leadership (700+ engineers, £50M+ programs)
+- Builds high performance Engineering culture
+- AI/ Cloud transformation expertise  
+- Financial services and regulated industries experience  
+- Strategic impact (efficiency gains, cost savings, compliance).
 
-### Headline
+joelewisnotts@hotmail.co.uk | 07843 081 640 | www.linkedin.com/in/joe-lewis-notts
+
+---
+
+### Overview
 Growth mindset technology executive with over 20 years of experience, mainly in financial services. I drive transformation across the entire technology lifecycle. Expert in building and modernising large-scale, cloud-native platforms and optimising legacy estates for public cloud migration.
 
 Influential with C-level stakeholders, I lead a global engineering organisation of over 700 professionals, instilling a high-performance culture of Engineering. Partnering with business counterparts to develop a multi-year strategic technology outlook, operational excellence, and managing large budgets to build sustainable business growth.
 
-My direct involvement in several private equity transactions, mergers, and divestitures includes a large $500M acquisition. Also, I have strategic ownership of vendor partnerships, ensuring alignment with organisational objectives.
-
 ### Technical Excellence
 - Deep technical proficiency in modern cloud-native architectures and programming languages  
-- Champion of engineering excellence, embedding automation and Site Reliability Engineering (SRE) principles  
+- Champion of engineering excellence, embedding Site Reliability Engineering (SRE) principles  
 - Driving adoption of software, testing, security, and infrastructure, all as code  
-- Experience in design, architecture, and engineering of highly available, secure, resilient, and scalable systems  
+- Experience in design and architecting highly available, secure, resilient, and scalable systems  
 - Targeting over 50% of code delivered through advanced AI prompt engineering  
 - Excellent knowledge of core engineering best practices  
 - Standardising technical practices, tooling, and leveraging automation and AI to maximise productivity.
@@ -32,15 +31,16 @@ My direct involvement in several private equity transactions, mergers, and dives
 ### Career Experience
 - Led global engineering organisations through transformational culture change  
 - Managed large scale cloud migrations into Azure and AWS pubic cloud  
-- Completed technology consolidations from acquisitions, and modernisation of legacy technology estates  
-- Direct involvement in private equity transactions, mergers, and divestitures (through TSA)  
-- Recognised for mentoring technology leaders, driving operational excellence, and fostering high-performance cultures  
-- My leadership consistently delivers efficiency gains, FinOps cost savings, and compliance in highly regulated environments.
+- Completed technology consolidations and modernisation of legacy technology estates  
+- Direct involvement in private equity transactions, mergers, and divestitures (through TSA)
+- Transitioned vendor partners and integrated an MSP from offshore resource providers 
+- Mentoring technology leaders and fostering high-performance cultures  
+- Consistently delivers efficiency gains, FinOps cost savings, and compliance in regulated environments.
 
 ### Education & Certifications
-- Advanced Masters degree in GIS Systems with a distinction, University of Leicester (Computer Science & Technology discipline)  
+- Advanced Masters degree in GIS Systems with a distinction, University of Leicester  
 - Executive Leadership Programme, Oxford University – Saïd Business School  
-- Certifications: 2 x Azure, 2 x AWS, GitHub Copilot, historic Microsoft technical certifications like MCTS, MCP and MCDBA  
+- Certifications: 2 x Azure, 2 x AWS, GitHub Copilot, legacy MS technical certs (MCTS, MCP and MCDBA)  
 - Qualified in SAFe (x2), FinOps, Product Management, DevOps (x2), Kepner-Tregoe, ITIL (x5).
 
 ---
@@ -183,6 +183,7 @@ I started at CapitalOne as Service Transition Manager, then became a Technical P
 - Hire top engineering leaders and talent, provide mentoring, coaching and guidance to your staff.
 
 ---
+
 
 
 
