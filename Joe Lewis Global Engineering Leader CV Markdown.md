@@ -16,7 +16,9 @@
 ### Headline
 Growth mindset technology executive with over 20 years of experience, mainly in financial services. I drive transformation across the entire technology lifecycle. Expert in building and modernising large-scale, cloud-native platforms and optimising legacy estates for public cloud migration.
 
-Influential with C-level stakeholders, I lead global engineering organisations of over 700 professionals, instilling a high-performance culture of Engineering. Partnering with business counterparts to develop a multi-year strategic technology outlook, operational excellence, and managing substantial budgets to build sustainable business growth.
+Influential with C-level stakeholders, I lead a global engineering organisation of over 700 professionals, instilling a high-performance culture of Engineering. Partnering with business counterparts to develop a multi-year strategic technology outlook, operational excellence, and managing large budgets to build sustainable business growth.
+
+My direct involvement in several private equity transactions, mergers, and divestitures includes a large $500M acquisition. Also, I have strategic ownership of vendor partnerships, ensuring alignment with organisational objectives.
 
 ### Technical Excellence
 - Deep technical proficiency in modern cloud-native architectures and programming languages  
@@ -48,7 +50,7 @@ Influential with C-level stakeholders, I lead global engineering organisations o
 ### Director of Engineering — Equiniti  
 **Nov 2023 – Present | London (Hybrid)**  
 
-Equiniti supports the global capital markets by helping companies with share registry, employee share plans, and investor relations. Recently modernising technology through public cloud, Agile/SAFe adoption, and DevSecOps.
+Equiniti supports the global capital markets by helping companies with share registry, employee share plans, and investor relations. Recently modernising technology through public cloud, Agile/ SAFe adoption, and DevSecOps.
 
 #### Responsibilities
 - Directed a globally distributed organisation of 700+ engineers and architects  
@@ -181,6 +183,7 @@ I started at CapitalOne as Service Transition Manager, then became a Technical P
 - Hire top engineering leaders and talent, provide mentoring, coaching and guidance to your staff.
 
 ---
+
 
 
 
