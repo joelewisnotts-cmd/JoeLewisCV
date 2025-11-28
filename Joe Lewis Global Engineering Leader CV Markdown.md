@@ -35,13 +35,13 @@ Influential with C-level stakeholders, I lead a global engineering organisation 
 - Direct involvement in private equity transactions, mergers, and divestitures (through TSA)
 - Transitioned vendor partners and integrated an MSP from offshore resource providers 
 - Mentoring technology leaders and fostering high-performance cultures  
-- Consistently delivers efficiency gains, FinOps cost savings, and compliance in regulated environments.
+- Consistently delivers efficiencies, FinOps savings, and compliance, in regulated environments.
 
 ### Education & Certifications
 - Advanced Masters degree in GIS Systems with a distinction, University of Leicester  
 - Executive Leadership Programme, Oxford University – Saïd Business School  
-- Certifications: 2 x Azure, 2 x AWS, GitHub Copilot, legacy MS technical certs (MCTS, MCP and MCDBA)  
-- Qualified in SAFe (x2), FinOps, Product Management, DevOps (x2), Kepner-Tregoe, ITIL (x5).
+- Certifications: Azure, AWS, GitHub Copilot, legacy MS technical certs (MCTS, MCP and MCDBA)  
+- Qualified in SAFe, FinOps, Product Management, DevOps, Kepner-Tregoe, ITIL.
 
 ---
 
@@ -183,6 +183,7 @@ I started at CapitalOne as Service Transition Manager, then became a Technical P
 - Hire top engineering leaders and talent, provide mentoring, coaching and guidance to your staff.
 
 ---
+
 
 
 
