@@ -26,7 +26,7 @@ Influential with C-level stakeholders, I lead a global engineering organisation 
 - Experience in design and architecting highly available, secure, resilient, and scalable systems  
 - Targeting over 50% of code delivered through advanced AI prompt engineering  
 - Excellent knowledge of core engineering best practices  
-- Standardising technical practices, tooling, and leveraging automation and AI to maximise productivity.
+- Standardising technical practices & tooling, leveraging AI to maximise productivity.
 
 ### Career Experience
 - Led global engineering organisations through transformational culture change  
@@ -183,6 +183,7 @@ I started at CapitalOne as Service Transition Manager, then became a Technical P
 - Hire top engineering leaders and talent, provide mentoring, coaching and guidance to your staff.
 
 ---
+
 
 
 
