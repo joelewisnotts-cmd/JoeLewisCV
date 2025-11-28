@@ -99,7 +99,7 @@ I started at CapitalOne as Service Transition Manager, then became a Technical P
 
 ---
 
-### Software Release, Configuration & Environments Manager — Capita  
+### Software Configuration & Environments Manager — Capita  
 **Nov 2009 – Oct 2011 | Birmingham (Hybrid)**  
 
 #### Responsibilities
@@ -120,7 +120,7 @@ I started at CapitalOne as Service Transition Manager, then became a Technical P
 
 ---
 
-### Support Manager & Developer  
+### Support Manager & Developer - Hanlon Software Solutions  
 **Sep 2003 – May 2007 | Nottingham (On-site)**  
 
 #### Responsibilities
@@ -181,6 +181,7 @@ I started at CapitalOne as Service Transition Manager, then became a Technical P
 - Hire top engineering leaders and talent, provide mentoring, coaching and guidance to your staff.
 
 ---
+
 
 
 
