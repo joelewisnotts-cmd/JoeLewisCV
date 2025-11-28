@@ -14,9 +14,9 @@
 ## Professional Summary
 
 ### Headline
-Growth mindset technology executive with over 20 years of experience, mainly in financial services. Renowned for driving transformation across the entire technology lifecycle. Expert in building and modernising large-scale, cloud-native platforms and optimising legacy estates for public cloud migration.
+Growth mindset technology executive with over 20 years of experience, mainly in financial services. I drive transformation across the entire technology lifecycle. Expert in building and modernising large-scale, cloud-native platforms and optimising legacy estates for public cloud migration.
 
-Influential with C-level stakeholders, I lead global engineering organisations of over 700 professionals, instilling a high-performance culture of Engineering. Distinguished for strategic vision, operational excellence, and managing substantial budgets in highly regulated environments.
+Influential with C-level stakeholders, I lead global engineering organisations of over 700 professionals, instilling a high-performance culture of Engineering. Partnering with business counterparts to develop a multi-year strategic technology outlook, operational excellence, and managing substantial budgets to build sustainable business growth.
 
 ### Technical Excellence
 - Deep technical proficiency in modern cloud-native architectures and programming languages  
@@ -36,7 +36,7 @@ Influential with C-level stakeholders, I lead global engineering organisations o
 - My leadership consistently delivers efficiency gains, FinOps cost savings, and compliance in highly regulated environments.
 
 ### Education & Certifications
-- Advanced Master degree with distinction, University of Leicester (Science & Technology discipline)  
+- Advanced Masters degree in GIS Systems with distinction, University of Leicester (Computer Science & Technology discipline)  
 - Executive Leadership Programme, Oxford University – Saïd Business School  
 - Certifications: Azure, AWS, GitHub Copilot, historic Microsoft technical certifications  
 - Qualified in SAFe, FinOps, Product Management, DevOps, Kepner-Tregoe, ITIL  
@@ -145,7 +145,8 @@ I started at CapitalOne as Service Transition Manager, then became a Technical P
 - Communicate progress and celebrate success  
 - Outsource for resource augmentation, not your problems  
 - Partner with business counterparts to develop multi-year strategic outlook  
-- Provide leadership and oversight to a large team of technology leaders and developers  
+- Provide leadership and oversight to a large team of technology leaders and developers
+- A consultative mindset with the ability to challenge, inspire, and drive innovation  
 - Own the planning, design, and delivery of all product development and technical roadmap items
 
 ### Technical
@@ -179,5 +180,6 @@ I started at CapitalOne as Service Transition Manager, then became a Technical P
 - Hire top engineering leaders and talent, provide mentoring, coaching and guidance to your staff
 
 ---
+
 
 
