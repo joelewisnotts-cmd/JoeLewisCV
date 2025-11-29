@@ -73,7 +73,7 @@ Calyx is a MedTech/eClinical company supporting pharmaceutical firms with drug r
 
 #### Responsibilities
 - Strategic leadership for platform architecture, roadmaps, and continuous improvement  
-- Directed engineering groups in cloud-native and SaaS platforms  
+- Directed engineering groups in cloud-native and SaaS platforms (B2B & B2C)  
 - Managed ~$24M cloud expenditure, implementing FinOps framework  
 - Delivered $10M+ operational savings through FinOps initiatives  
 - Ensured platform security and compliance with GxP audit standards  
@@ -183,6 +183,7 @@ I started at CapitalOne as Service Transition Manager, then became a Technical P
 - Hire top engineering leaders and talent, provide mentoring, coaching and guidance to your staff.
 
 ---
+
 
 
 
