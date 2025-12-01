@@ -29,7 +29,7 @@ Influential with C-level stakeholders, I lead a global engineering organisation 
 - Standardising technical practices & tooling, leveraging AI to maximise productivity.
 
 ### Career Experience
-- Led global engineering organisations through transformational culture change  
+- Led globally distributed engineering organisations through transformational culture change  
 - Managed large scale cloud migrations into Azure and AWS pubic cloud  
 - Completed technology consolidations and modernisation of legacy technology estates  
 - Direct involvement in private equity transactions, mergers, and divestitures (through TSA)
@@ -183,6 +183,7 @@ I started at CapitalOne as Service Transition Manager, then became a Technical P
 - Hire top engineering leaders and talent, provide mentoring, coaching and guidance to your staff.
 
 ---
+
 
 
 
