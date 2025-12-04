@@ -4,13 +4,13 @@
 ---
 
 ### Executive summary
-- Scale of leadership (700+ engineers, £50M+ programs)
-- Builds high performance Engineering culture
-- AI/ Cloud transformation expertise  
+- Scale of leadership (700+ engineers, £50M+ programs)  
+- Builds high performance Engineering culture in modern technologies and architectures  
+- AI/ Cloud migration and transformation technical expertise    
 - Financial services and regulated industries experience  
-- Strategic impact (efficiency gains, cost savings, compliance).
+- Strategic impact (efficiency gains, cost savings, compliance, EBITDAR growth).
 
-07843 081 640 | www.linkedin.com/in/joe-lewis-notts | joelewisnotts@hotmail.co.uk  
+www.linkedin.com/in/joe-lewis-notts | joelewisnotts@hotmail.co.uk  
 
 ---
 
@@ -39,9 +39,9 @@ Influential with C-level stakeholders, I lead a global engineering organisation 
 
 ### Education & Certifications
 - Advanced Masters degree in GIS Systems with a distinction, University of Leicester  
-- Executive Leadership Programme, Oxford University – Saïd Business School  
+- Executive Leadership Programme, University of Oxford – Saïd Business School  
 - Certifications: Azure, AWS, GitHub Copilot, legacy MS technical certs (MCTS, MCP and MCDBA)  
-- Qualified in SAFe, FinOps, Product Management, DevOps, Kepner-Tregoe, ITIL.
+- Qualified in SAFe, FinOps, Product Management, DevOps, Kepner-Tregoe, ITIL & CompTIA Security+
 
 ---
 
@@ -183,6 +183,7 @@ I started at CapitalOne as Service Transition Manager, then became a Technical P
 - Hire top engineering leaders and talent, provide mentoring, coaching and guidance to your staff.
 
 ---
+
 
 
 
