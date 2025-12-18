@@ -89,14 +89,14 @@ Capital One is a global financial services provider, regulated in both the UK an
 
 #### Responsibilities
 - Ensured high availability for customer-facing portals and mobile apps  
-- Oversaw complex data transfers, vendor integrations, and BI platforms  
-- Coordinated 50+ Agile squads with a standardised transition framework  
-- Managed vendor budgets exceeding £1M  
+- Oversaw complex data transfers, vendor integrations, BI platforms
+- Migrated legacy data ETL systems into cloud native AWS data lake and data pipelines
+- Coordinated support transition of 50+ Agile squads with a standardised framework  
+- Managed vendor budget exceeding £1M  
 - Led four application support/ platform squads (SRE principles) delivering measurable efficiency gains  
 - Implemented advanced automation with Jenkins pipelines  
 - Maintained compliance with US and UK regulatory standards  
 - Delivered resiliency across data centre and public cloud infrastructures.
-
 I started at CapitalOne as Service Transition Manager, then became a Technical Programme Manager, finishing for the last 4 years as Head of Application Operations
 
 ---
@@ -183,6 +183,7 @@ I started at CapitalOne as Service Transition Manager, then became a Technical P
 - Hire top engineering leaders and talent, provide mentoring, coaching and guidance to your staff.
 
 ---
+
 
 
 
