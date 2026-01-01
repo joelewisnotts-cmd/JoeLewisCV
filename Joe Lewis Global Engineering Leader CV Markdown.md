@@ -8,7 +8,7 @@
 - Builds high performance Engineering culture in modern technologies and architectures  
 - AI/ Cloud migration and transformation technical expertise    
 - Financial services and regulated industries experience  
-- Strategic impact (efficiency gains, cost savings, compliance, EBITDAR growth).
+- Strategic impact from strong judgement (efficiency gains, cost savings, compliance, EBITDAR growth)  
 
 www.linkedin.com/in/joe-lewis-notts | joelewisnotts@hotmail.co.uk  
 
@@ -20,10 +20,11 @@ Growth mindset technology executive with over 20 years of experience, mainly in 
 Influential with C-level stakeholders, I lead a global engineering organisation of over 700 professionals, instilling a high-performance culture of Engineering. Partnering with business counterparts to develop a multi-year strategic technology outlook, operational excellence, and managing large budgets to build sustainable business growth.
 
 ### Technical Excellence
-- Deep technical proficiency in modern cloud-native architectures and programming languages  
+- Deep technical proficiency in modern cloud-native architectures and programming languages
+- Accountable for enterprise architecture across over 50 products and platforms
 - Champion of engineering excellence, embedding Site Reliability Engineering (SRE) principles  
 - Driving adoption of software, testing, security, and infrastructure, all as code  
-- Experience in design and architecting highly available, secure, resilient, and scalable systems  
+- Final decision maker on design and architecture for highly available, secure, resilient, and scalable systems  
 - Targeting over 50% of code delivered through advanced AI prompt engineering  
 - Excellent knowledge of core engineering best practices  
 - Standardising technical practices & tooling, leveraging AI to maximise productivity.
@@ -35,7 +36,7 @@ Influential with C-level stakeholders, I lead a global engineering organisation 
 - Direct involvement in private equity transactions, mergers, and divestitures (through TSA)
 - Transitioned vendor partners and integrated an MSP from offshore resource providers 
 - Mentoring technology leaders and fostering high-performance cultures  
-- Consistently delivers efficiencies, FinOps savings, and compliance, in regulated environments.
+- Consistently delivers efficiencies, FinOps savings, and compliance, in regulated environments (FCA, ISO, PCI-DSS, FED, SEC, OCC).
 
 ### Education & Certifications
 - Advanced Masters degree in GIS Systems with a distinction, University of Leicester  
@@ -183,6 +184,7 @@ I started at CapitalOne as Service Transition Manager, then became a Technical P
 - Hire top engineering leaders and talent, provide mentoring, coaching and guidance to your staff.
 
 ---
+
 
 
 
