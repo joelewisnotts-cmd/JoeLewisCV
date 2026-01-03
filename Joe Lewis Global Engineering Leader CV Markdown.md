@@ -1,17 +1,19 @@
 # Joe Lewis
-#### Global Technology Executive | CTO | VP of Engineering | Grantham
+**Global Technology Executive | CTO/ Chief Technology Officer | VP of Engineering**  
+Grantham · www.linkedin.com/in/joe-lewis-notts · joelewisnotts@hotmail.co.uk
+
 
 ---
 
-### Executive summary
+### Executive summary:
+Technology executive with 20+ years’ experience leading large global engineering organisations in regulated environments, delivering large-scale transformation, cloud modernisation, and operational excellence.
 - Scale of leadership (700+ engineers, £50M+ programs)  
-- Builds high performance Engineering culture in modern technologies and architectures  
+- Builds high performance Engineering culture
+- Ownership of modern technology and architecture decisions/ roadmaps  
 - AI/ Cloud migration and transformation technical expertise    
 - Financial services and regulated industries experience
 - Overseeing and leading Private equity mergers, acquisitions, sales and purchases, including due diligence  
 - Strategic impact from strong judgement (efficiency gains, cost savings, compliance, EBITDAR growth)  
-
-www.linkedin.com/in/joe-lewis-notts | joelewisnotts@hotmail.co.uk  
 
 ---
 
@@ -20,7 +22,7 @@ Growth mindset technology executive with over 20 years of experience, mainly in 
 
 Influential with C-level stakeholders, I lead a global engineering organisation of over 700 professionals, instilling a high-performance culture of Engineering. Partnering with business counterparts to develop a multi-year strategic technology outlook, operational excellence, and managing large budgets to build sustainable business growth.
 
-### Technical Excellence
+### Technical and Engineering leadership:
 - Deep technical proficiency in modern cloud-native architectures and programming languages
 - Accountable for enterprise architecture across over 50 products and platforms
 - Champion of engineering excellence, embedding Site Reliability Engineering (SRE) principles  
@@ -30,7 +32,7 @@ Influential with C-level stakeholders, I lead a global engineering organisation 
 - Excellent knowledge of core engineering best practices  
 - Standardising technical practices & tooling, leveraging AI to maximise productivity.
 
-### Career Experience
+### Career Highlights:
 - Led globally distributed engineering organisations through transformational culture change  
 - Managed large scale cloud migrations into Azure and AWS pubic cloud  
 - Completed technology consolidations and modernisation of legacy technology estates  
@@ -39,11 +41,11 @@ Influential with C-level stakeholders, I lead a global engineering organisation 
 - Mentoring technology leaders and fostering high-performance cultures  
 - Consistently delivers efficiencies, FinOps savings, and compliance, in regulated environments (FCA, ISO, PCI-DSS, FED, SEC, OCC).
 
-### Education & Certifications
-- Advanced Masters degree in GIS Systems with a distinction, University of Leicester  
+### Education & Certifications:
+- Masters/ MSc (Distinction) in GIS Systems, University of Leicester  
 - Executive Leadership Programme, University of Oxford – Saïd Business School  
 - Certifications: Azure, AWS, GitHub Copilot, legacy MS technical certs (MCTS, MCP and MCDBA)  
-- Qualified in SAFe, FinOps, Product Management, DevOps, Kepner-Tregoe, ITIL & CompTIA Security+
+- Qualified in SAFe, FinOps, Product Management, DevOps, Kepner-Tregoe, ITIL, ISB2 Cybersecurity & CompTIA Security+
 
 ---
 
@@ -52,7 +54,7 @@ Influential with C-level stakeholders, I lead a global engineering organisation 
 ### Director of Engineering — Equiniti  
 **Nov 2023 – Present | London (Hybrid)**  
 
-Equiniti supports the global capital markets by helping companies with share registry, employee share plans, and investor relations. Recently modernising technology through public cloud, Agile/ SAFe adoption, and DevSecOps.
+Equiniti supports the technology of global capital markets by helping companies with share registry, employee share plans, investor relations and trading platforms. Recently modernising technology through public cloud, Agile/ SAFe adoption, and DevSecOps.
 
 #### Responsibilities
 - Directed a globally distributed organisation of 700+ engineers and architects  
@@ -134,14 +136,14 @@ I started at CapitalOne as Service Transition Manager, then became a Technical P
 ---
 
 ### Application Support Analyst — Welcome Finance  
-**Jan 2001 – Jun 2003 | Nottingham (on-site)**  
+**Jan 2001 – Jun 2003 | Nottingham (On-site)**  
 
 #### Responsibilities
 - Application support and SQL data fixes in Oracle databases.
 
 ---
 
-## Core Principles & Skills
+## Core Operating Principles
 
 ### Strategic
 - Create and define technology vision and strategy  
@@ -185,6 +187,7 @@ I started at CapitalOne as Service Transition Manager, then became a Technical P
 - Hire top engineering leaders and talent, provide mentoring, coaching and guidance to your staff.
 
 ---
+
 
 
 
