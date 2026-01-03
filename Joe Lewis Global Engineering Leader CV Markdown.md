@@ -7,7 +7,8 @@
 - Scale of leadership (700+ engineers, £50M+ programs)  
 - Builds high performance Engineering culture in modern technologies and architectures  
 - AI/ Cloud migration and transformation technical expertise    
-- Financial services and regulated industries experience  
+- Financial services and regulated industries experience
+- Overseeing and leading Private equity mergers, acquisitions, sales and purchases, including due diligence  
 - Strategic impact from strong judgement (efficiency gains, cost savings, compliance, EBITDAR growth)  
 
 www.linkedin.com/in/joe-lewis-notts | joelewisnotts@hotmail.co.uk  
@@ -33,8 +34,8 @@ Influential with C-level stakeholders, I lead a global engineering organisation 
 - Led globally distributed engineering organisations through transformational culture change  
 - Managed large scale cloud migrations into Azure and AWS pubic cloud  
 - Completed technology consolidations and modernisation of legacy technology estates  
-- Direct involvement in private equity transactions, mergers, and divestitures (through TSA)
-- Transitioned vendor partners and integrated an MSP from offshore resource providers 
+- Direct involvement in private equity transactions, mergers, and divestitures (through TSA) and led technical due diligence
+- Transitioned vendor partners and integrated an MSP/ outsourcing from off/ near shore resource providers 
 - Mentoring technology leaders and fostering high-performance cultures  
 - Consistently delivers efficiencies, FinOps savings, and compliance, in regulated environments (FCA, ISO, PCI-DSS, FED, SEC, OCC).
 
@@ -184,6 +185,7 @@ I started at CapitalOne as Service Transition Manager, then became a Technical P
 - Hire top engineering leaders and talent, provide mentoring, coaching and guidance to your staff.
 
 ---
+
 
 
 
