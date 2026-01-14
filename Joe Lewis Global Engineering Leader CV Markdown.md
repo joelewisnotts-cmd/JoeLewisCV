@@ -58,7 +58,7 @@ Equiniti supports the technology of global capital markets by helping companies 
 
 #### Responsibilities
 - Directed a globally distributed organisation of 700+ engineers and architects  
-- Owned mission-critical trading platforms, shareholder portals, and back-office workflow  
+- Owned mission-critical trading platforms, shareholder portals, ERP and back-office workflow  
 - Defined and executed technology vision and strategy in partnership with Product  
 - Oversaw delivery across 65+ Agile Product groups, driving Agile transformation  
 - Integrated AI productivity tools, achieving a 30% increase in engineering efficiency  
@@ -187,6 +187,7 @@ I started at CapitalOne as Service Transition Manager, then became a Technical P
 - Hire top engineering leaders and talent, provide mentoring, coaching and guidance to your staff.
 
 ---
+
 
 
 
