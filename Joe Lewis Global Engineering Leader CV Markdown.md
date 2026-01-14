@@ -82,7 +82,7 @@ Calyx is a MedTech/eClinical company supporting pharmaceutical firms with drug r
 - Delivered $10M+ operational savings through FinOps initiatives  
 - Ensured platform security and compliance with GxP audit standards  
 - Authored and negotiated TSA contracts for divestitures  
-- Key contributor in private equity due diligence and data room management.
+- Key contributor in private equity sale, purchase, due diligence and creation of data room artefacts.
 
 ---
 
@@ -187,6 +187,7 @@ I started at CapitalOne as Service Transition Manager, then became a Technical P
 - Hire top engineering leaders and talent, provide mentoring, coaching and guidance to your staff.
 
 ---
+
 
 
 
